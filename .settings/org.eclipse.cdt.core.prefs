@@ -1,0 +1,6 @@
+eclipse.preferences.version=1
+environment/project/cdt.managedbuild.toolchain.gnu.cross.base.31171686/PATH/delimiter=\:
+environment/project/cdt.managedbuild.toolchain.gnu.cross.base.31171686/PATH/operation=replace
+environment/project/cdt.managedbuild.toolchain.gnu.cross.base.31171686/PATH/value=/bin\:/home/linuxbrew/.linuxbrew/bin\:/home/linuxbrew/.linuxbrew/sbin\:/home/fernando/bin\:/home/fernando/.local/bin\:/usr/local/sbin\:/usr/local/bin\:/usr/sbin\:/usr/bin\:/sbin\:/usr/games\:/usr/local/games\:/snap/bin\:/home/fernando/opt/gcc-arm-none-eabi-7-2017-q4-major/bin
+environment/project/cdt.managedbuild.toolchain.gnu.cross.base.31171686/append=true
+environment/project/cdt.managedbuild.toolchain.gnu.cross.base.31171686/appendContributed=true
